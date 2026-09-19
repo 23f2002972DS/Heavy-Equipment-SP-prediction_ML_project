@@ -1,6 +1,7 @@
 # Heavy Equipment Selling Price Prediction
 
 A Kaggle notebook for exploratory data analysis, feature engineering, preprocessing, and regression modeling to predict heavy-equipment selling prices.
+This project uses machine learning to predict heavy equipment selling prices.
 
 ## Contents
 
